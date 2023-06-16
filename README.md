@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello, I'm Lukasz 👋
 
-<!--
-**lkolo-prez/lkolo-prez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast with a deep interest in Cloud and infrastructure. I currently work as a DevOps and Cloud Architect at Airlan. My key areas of interest are Kubernetes, IaC, Terraform and Linux.
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkolo-preze&show_icons=true)
+
+## 🔭 My Key Repositories
+
+### Repository 1
+
+- 🔗 Link: [Linux-know-how](https://github.com/lkolo-prez/Linux-know-how)
+- 📝 Description: 
+
+### Repository 2
+
+- 🔗 Link: [Kubernetes-know-how](https://github.com/lkolo-prez/Kubernetes-know-how)
+- 📝 Description:
+
+### Repository 3
+
+- 🔗 Link: [Terraform-Knowledge-Base-Repository](https://github.com/lkolo-prez/Terraform-Knowledge-Base-Repository)
+- 📝 Description:
+
+## 📫 How to Reach Me
+
+- 📧 Email: [lukasz@kolodziej.pro](lukasz@kolodziej.pro)
+- 💼 LinkedIn: [Lukasz Kolodziej]([link_to_your_linkedin](https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)
+---
+
+Feel free to explore my projects!
+
