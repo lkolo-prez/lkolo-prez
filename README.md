@@ -4,7 +4,7 @@ I'm a technology enthusiast with a deep interest in Cloud and infrastructure. I 
 
 ## 📈 My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkolo-preze&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lkolo-prez&show_icons=true&theme=dark)
 
 ## 🔭 My Key Repositories
 
@@ -26,7 +26,7 @@ I'm a technology enthusiast with a deep interest in Cloud and infrastructure. I 
 ## 📫 How to Reach Me
 
 - 📧 Email: [lukasz@kolodziej.pro](lukasz@kolodziej.pro)
-- 💼 LinkedIn: [Lukasz Kolodziej]([link_to_your_linkedin](https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)
+- 💼 LinkedIn: [Lukasz Kolodziej] (https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)https://www.linkedin.com/in/%C5%82ukasz-ko%C5%82odziej-25836218b/)
 ---
 
 Feel free to explore my projects!
