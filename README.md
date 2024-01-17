@@ -2,12 +2,6 @@
 
 I'm a technology enthusiast with a deep interest in Cloud and infrastructure. I currently work as a DevOps and Cloud Architect at Airlan. My key areas of interest are Kubernetes, IaC, Terraform and Linux.
 
-## 📈 My GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lkolo-prez&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔭 My Key Repositories
 
 ### Repository 1
