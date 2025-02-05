@@ -29,7 +29,6 @@ I help design and maintain cloud solutions for **large-scale international proje
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lkolo-prez&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=lkolo-prez&include_all_commits=true&count_private=true&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
@@ -48,9 +47,15 @@ I help design and maintain cloud solutions for **large-scale international proje
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,linux,git,github,gitlab,bash,python,mysql,postgresql,redis,prometheus,grafana,nginx,apache,jenkins,githubactions" alt="Tech Stack" />
-</p>
+- ☁️ **Cloud Platforms:** Azure, AWS, GCP
+- 🚀 **Containerization:** Kubernetes (AKS, Microk8s), Docker, OpenShift
+- 🏗️ **Infrastructure as Code:** Terraform, Ansible, Pulumi
+- 🔁 **CI/CD:** ArgoCD, GitHub Actions, Azure Pipelines YAML, Jenkins
+- 📊 **Monitoring & Logging:** Prometheus, Grafana, Coralogix
+- 💾 **Databases:** MSSQL, MySQL, MariaDB, Redis, PostgreSQL, MongoDB
+- 🔒 **Security & Networking:** MikroTik, Cisco, IPv4/IPv6, Firewalls, Nginx F5
+- 💻 **Programming & Scripting:** Python, Bash, YAML, Java, C++, PHP
+- 🖥 **Operating Systems:** Windows Server, Linux (Ubuntu, Debian, RHEL, CentOS), macOS
 
 ---
 
