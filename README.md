@@ -22,12 +22,29 @@ I help design and maintain cloud solutions for **large-scale international proje
 
 ---
 
-## 📊 My GitHub Stats
+## 🚀 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkolo-prez&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez&count_private=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkolo-prez&count_private=true&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lkolo-prez&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=lkolo-prez&include_all_commits=true&count_private=true&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🎯 **$500K Annual Cloud Cost Savings** through FinOps strategies  
+📈 **Optimized CI/CD Pipelines** for seamless deployments  
+🔧 **Built Kubernetes Monitoring Solutions** with Prometheus & Coralogix  
+🌍 **Infrastructure for Global Events** like the Olympic Games & World Cup  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,linux,git,github,gitlab,bash,python" alt="Tech Stack" />
 </p>
 
 ---
@@ -40,5 +57,5 @@ I help design and maintain cloud solutions for **large-scale international proje
   <a href="https://github.com/lkolo-prez"><img src="https://img.shields.io/badge/GitHub-lkolo--prez-gray?style=for-the-badge&logo=github"/></a>
 </p>
 
-📢 **Let's build something awesome together!** Feel free to explore my projects and connect with me. 🚀
+📢 **Let's build something awesome together!** Feel free to connect with me. 🚀
 
