@@ -19,6 +19,8 @@ I help design and maintain cloud solutions for **large-scale international proje
 - 🏗️ Kubernetes & Container Orchestration
 - 🔁 CI/CD Pipelines & Infrastructure as Code
 - 🔒 Cloud Security & FinOps
+- 📊 Advanced Monitoring & Logging (Prometheus, Grafana, Coralogix)
+- 💰 Cloud Cost Optimization & FinOps Strategies
 
 ---
 
@@ -38,14 +40,26 @@ I help design and maintain cloud solutions for **large-scale international proje
 📈 **Optimized CI/CD Pipelines** for seamless deployments  
 🔧 **Built Kubernetes Monitoring Solutions** with Prometheus & Coralogix  
 🌍 **Infrastructure for Global Events** like the Olympic Games & World Cup  
+🚀 **Migrated Legacy Workflows to Modern DevOps Pipelines**  
+💡 **Developed Universal Terraform Modules for Multi-Cloud Environments**  
+🔒 **Implemented Proactive Security Measures & Compliance Standards**  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,linux,git,github,gitlab,bash,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,linux,git,github,gitlab,bash,python,mysql,postgresql,redis,prometheus,grafana,nginx,apache,jenkins,githubactions" alt="Tech Stack" />
 </p>
+
+---
+
+## 🎓 Certifications
+
+🏅 **Microsoft Certified**: AI-900, SC-900, DP-900, AZ-900, MB-910, MB-920, MS-700, PL-900  
+🏅 **Cloud & DevOps**: Azure Data Engineer, Docker Maestro, Kubernetes Maestro  
+🏅 **Networking & Security**: Cisco CCNA, Fortinet NSE 1, MikroTik MTCNA & MTCSE  
+🏅 **Linux & Infrastructure**: NDG Linux Unhatched, Infrastructure as Code Specialist  
 
 ---
 
