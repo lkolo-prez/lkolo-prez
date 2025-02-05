@@ -32,16 +32,6 @@ I help design and maintain cloud solutions for **large-scale international proje
 
 ---
 
-## 🛠️ My Key Repositories
-
-📌 **[Linux Know-How](https://github.com/lkolo-prez/Linux-know-how)** - Essential Linux tips, commands, and best practices.
-
-📌 **[Kubernetes Know-How](https://github.com/lkolo-prez/Kubernetes-know-how)** - Configurations, troubleshooting, and best practices for Kubernetes.
-
-📌 **[Terraform Knowledge Base](https://github.com/lkolo-prez/Terraform-Knowledge-Base-Repository)** - A structured Terraform repository with modules and configurations.
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
