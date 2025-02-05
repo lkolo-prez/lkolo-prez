@@ -14,11 +14,11 @@ Currently, I'm the **owner of AIRCLOUD** and work as a **DevOps Engineer at Newx
 
 ## 📊 My GitHub Stats
 
-![Łukasz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkolo-prez&show_icons=true&theme=radical)
+![Łukasz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkolo-prez&count_private=true&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkolo-prez&count_private=true&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lkolo-prez&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lkolo-prez&count_private=true&theme=radical)
 
 ---
 
