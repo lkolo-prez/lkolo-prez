@@ -1,0 +1,72 @@
+name: Latest posts
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: latest-posts
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch llms.txt
+        run: curl -fsSL --retry 3 --max-time 30 https://aircloud.com.pl/llms.txt -o "$RUNNER_TEMP/llms.txt"
+
+      - name: Render the "Wiedza" section between the README markers
+        env:
+          LLMS: ${{ runner.temp }}/llms.txt
+          LIMIT: "5"
+        run: |
+          python3 - <<'PY'
+          import os, re, sys
+
+          src = open(os.environ["LLMS"], encoding="utf-8").read().splitlines()
+          limit = int(os.environ["LIMIT"])
+
+          items, inside = [], False
+          for line in src:
+              if line.startswith("## "):
+                  inside = line.startswith("## Wiedza")
+                  continue
+              if inside and line.startswith("- "):
+                  m = re.match(r"^- \[([^\]]+)\]\((https?://[^)\s]+)\)(?:\s*\((\d{4}-\d{2}-\d{2})\))?", line)
+                  if m:
+                      title, url, date = m.groups()
+                      items.append(f"- [{title}]({url})" + (f" · {date}" if date else ""))
+
+          if not items:
+              print("No bullet lines found in the '## Wiedza' section; leaving README unchanged.")
+              sys.exit(0)
+
+          block = "\n".join(items[:limit])
+          readme = open("README.md", encoding="utf-8").read()
+          start, end = "<!-- LATEST-POSTS:START -->", "<!-- LATEST-POSTS:END -->"
+          if start not in readme or end not in readme:
+              sys.exit("README markers not found")
+          new = re.sub(re.escape(start) + r".*?" + re.escape(end),
+                       lambda _: f"{start}\n{block}\n{end}", readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(new)
+          print(block)
+          PY
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: refresh latest notes from aircloud.com.pl"
+          git push

@@ -52,6 +52,13 @@ I take AI agents and LLMs to production (Azure, AWS, GCP, on-prem) · Kubernetes
 | [mapa-zielona-opole](https://github.com/lkolo-prez/mapa-zielona-opole) | Open-data map of greenery and well-being in Opole (City Youth Strategy) |
 | [monopoly-lab](https://github.com/lkolo-prez/monopoly-lab) | AI engine: Monte Carlo simulations, MCTS/LLM agent |
 
+## Latest notes
+
+From [aircloud.com.pl/knowledge](https://aircloud.com.pl/knowledge), refreshed daily:
+
+<!-- LATEST-POSTS:START -->
+<!-- LATEST-POSTS:END -->
+
 ## Books and talks
 
 - 📘 **“AI od podstaw”** (AI from the ground up) — author, 06.2026, ISBN 978-83-981281-0-0
