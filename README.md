@@ -57,6 +57,7 @@ I take AI agents and LLMs to production (Azure, AWS, GCP, on-prem) · Kubernetes
 From [aircloud.com.pl/knowledge](https://aircloud.com.pl/knowledge), refreshed daily:
 
 <!-- LATEST-POSTS:START -->
+- [72 strony w 2,5 h. Co zostaje człowiekowi](https://aircloud.com.pl/knowledge/72-strony-w-2-5-h) · 2026-11-24
 - [Sieć i platforma dla organizacji edukacyjnej](https://aircloud.com.pl/knowledge/siec-i-platforma-edukacja) · 2026-11-23
 <!-- LATEST-POSTS:END -->
 
