@@ -9,14 +9,14 @@ I take AI agents and LLMs to production (Azure, AWS, GCP, on-prem) · Kubernetes
 
 > Most AI projects stop at the demo. I build the infrastructure and the engineering process that take them to production.
 
-[Website](https://aircloud.com.pl) · [About me](https://aircloud.com.pl/en/about) · [LinkedIn](https://www.linkedin.com/in/lukasz-kolodziej/) · [Email](mailto:office@aircloud.com.pl) · B2B, 100% remote
+[Website](https://aircloud.com.pl) · [About me](https://aircloud.com.pl/en/about) · [LinkedIn](https://www.linkedin.com/in/lukasz-kolodziej/) · [Email](mailto:office@aircloud.com.pl) · B2B, remote across Poland and the EU or on-site in selected cities
 
 ---
 
 ## What I do
 
 - ▸ **LLM platforms and AI agents in production** — secure and cost-efficient: least privilege, audit log, human approval for irreversible actions
-- ▸ **Spec-driven development** — the specification is the product; agents implement, a human verifies and signs off
+- ▸ **Spec-driven development** — the specification is the product; agents implement, deterministic gates decide, a human is the evaluator
 - ▸ **Kubernetes, Terraform, GitOps, Policy-as-Code** — golden paths instead of hand-built snowflakes
 - ▸ **FinOps and defensive security** — cloud and LLM costs measured from day one; hardening, policies, image scanning
 
